@@ -159,7 +159,10 @@ button:hover {
   margin-top: 50px;
   background-color: var(--color-principal); /* Fondo oscuro */
   color: white; /* Texto blanco */
+  justify-content: center;
+  align-items: center;
   text-align: center; /* Centrado del texto */
+ 
   padding: 20px; /* Espaciado alrededor */
   font-size: 14px; /* Tamaño de fuente pequeño */
 }
@@ -177,3 +180,10 @@ button:hover {
 .footer p {
   margin-top: 20px; /* Elimina los márgenes predeterminados */
 }
+.footer .row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px; /* Espacio entre los elementos */
+}
+
