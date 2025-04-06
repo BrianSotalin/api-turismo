@@ -1,2 +1,2 @@
-# api-turismo
-API que tiene como propósito brindar una herramienta educativa para futuros desarrolladores y estudiantes.
+# Web api-turismo
+Guia para usar api-turismo
